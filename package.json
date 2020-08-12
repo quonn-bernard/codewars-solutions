@@ -1,0 +1,20 @@
+{
+  "name": "codewars-solutions",
+  "version": "1.0.0",
+  "description": "codewars-solutions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quonn-bernard/codewars-solutions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/quonn-bernard/codewars-solutions/issues"
+  },
+  "homepage": "https://github.com/quonn-bernard/codewars-solutions#readme",
+  "keywords": []
+}
