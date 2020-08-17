@@ -1,4 +1,4 @@
-# Code Solutions from Code Wars and various other algorithm websites
+# Algorithm Challenge Solutions
 
 ## Table Of Contents
 
@@ -14,6 +14,7 @@
 
 Solutions to Code Wars and other interview prep websites algorithm challenges
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TWdpnUud9rQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Technology
 
