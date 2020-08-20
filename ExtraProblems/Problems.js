@@ -10,11 +10,9 @@ function isUnique(str) {
 
 const flatten = nestedArr => {
     let newArr = [];
-
     //iterate thru the array
     nestedArr.forEach((_,i) => {
         let arrItem = nestedArr[i]
-
         //check type of first elem
         //if it is an array call flatten recursively and declare a variable
         if(Array.isArray(arrItem)){
